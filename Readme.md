@@ -17,4 +17,4 @@
 
 ### Screenshot
 
-![Screenshot](./01.png)
+![Screenshot](./01.PNG)
